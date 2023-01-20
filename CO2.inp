@@ -1,0 +1,5 @@
+%PAL NPROCS 8 END
+!RevPBE sv(p) opt
+%geom MaxIter 250
+end
+*xyzfile 0 1 geometria.xyz
